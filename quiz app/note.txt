@@ -1,0 +1,7 @@
+//1 create ui 
+
+//2 create json data and print as per index 
+
+//3 first loadQuestion => sumbitQuiz => checkQuestion
+
+// if getElementByClassName is not work use getElementById
